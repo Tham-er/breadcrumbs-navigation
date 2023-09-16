@@ -12,3 +12,8 @@
     content: ">";
     margin: 0 5px;
 }
+
+.Breadcrumbs_link{
+    color: black;
+    text-decoration: none;
+}
