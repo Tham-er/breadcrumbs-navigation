@@ -7,3 +7,8 @@
 .Breadcrumbs_item{
     display: inline-block;
 }
+
+.Breadcrumbs_item,li+li::before{
+    content: ">";
+    margin: 0 5px;
+}
