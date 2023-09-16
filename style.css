@@ -21,3 +21,9 @@
 .Breadcrumbs_link,a:hover{
     color: rgb(94, 75, 179);
 }
+
+.Breadcrumbs_link-active{
+    color: blueviolet;
+    font-size: larger;
+    font-weight: 500
+}
