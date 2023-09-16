@@ -1,0 +1,9 @@
+.Breadcrumbs{
+    padding: 10px;
+    font-family: cursive; 
+    font-size: larger
+}
+
+.Breadcrumbs_item{
+    display: inline-block;
+}
